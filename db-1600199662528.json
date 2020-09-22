@@ -1,0 +1,63 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Guitar",
+      "description": "KAP S ST - 1CM, 6-Strings, Acoustic Guitar, Right-Handed",
+      "imageUrl": "https://www.johnsmusic.in/uploads/johns-music/products/es36e-nm-144540_l.jpg",
+      "price": 5000
+    },
+    {
+      "id": 2,
+      "name": "Guitar f310",
+      "description": " Black, With Guitar Cover",
+      "imageUrl": "https://www.johnsmusic.in/uploads/johns-music/products/es36e-nm-144540_l.jpg",
+      "price": 3000
+    },
+    {
+      "id": 3,
+      "name": "Yamaha",
+      "description": "KAP S ST - 1CM, 6-Strings, Acoustic Guitar, Right-Handed",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTXdR1n4RS0W5NBp7e1kdlnFVh_wCQIFDcujA&usqp=CAU",
+      "price": 4000
+    },
+    {
+      "id": 4,
+      "name": "Guitar Acoustic",
+      "description": " Black, With Guitar Cover",
+      "imageUrl": "https://in.yamaha.com/en/files/A-Series_540x540_71715836cdc24b57daba8c9e52310e07.jpg?impolicy=resize&imwid=396&imhei=396",
+      "price": 5540
+    },
+    {
+      "id": 4,
+      "name": "Guitar Acoustic",
+      "description": " Black, With Guitar Cover",
+      "imageUrl": "https://in.yamaha.com/en/files/A-Series_540x540_71715836cdc24b57daba8c9e52310e07.jpg?impolicy=resize&imwid=396&imhei=396",
+      "price": 5540
+    },
+    {
+      "id": 4,
+      "name": "Guitar Acoustic",
+      "description": " Black, With Guitar Cover",
+      "imageUrl": "https://in.yamaha.com/en/files/A-Series_540x540_71715836cdc24b57daba8c9e52310e07.jpg?impolicy=resize&imwid=396&imhei=396",
+      "price": 5540
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
